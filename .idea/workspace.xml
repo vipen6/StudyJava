@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd10a645-4e28-4e97-8b99-eaa0a2ee775e" name="Default Changelist" comment="" />
+    <list default="true" id="fd10a645-4e28-4e97-8b99-eaa0a2ee775e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/peng/suitedemo/hello.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +33,7 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/testcase/BaseTest.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="29">
+                    <state relative-caret-position="85">
                       <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
                     </state>
                   </provider>
@@ -44,7 +46,7 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/testcase/LoginTest.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="58">
+                    <state relative-caret-position="100">
                       <caret line="11" selection-start-line="11" selection-end-line="11" />
                     </state>
                   </provider>
@@ -74,11 +76,20 @@
           </split-first>
           <split-second>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file pinned="false" current-in-tab="true">
+              <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/testcase/BuyTest.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="38">
+                    <state relative-caret-position="85">
                       <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/suitedemo/hello.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="30">
+                      <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
                     </state>
                   </provider>
                 </entry>
@@ -129,16 +140,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="167" />
-    <option name="y" value="23" />
+    <option name="x" value="75" />
+    <option name="y" value="35" />
     <option name="width" value="1400" />
     <option name="height" value="800" />
   </component>
@@ -189,7 +193,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="peng" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="suitedemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,6 +203,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -292,7 +297,7 @@
       <workItem from="1607037994044" duration="278000" />
       <workItem from="1607038349432" duration="795000" />
       <workItem from="1607039150114" duration="7483000" />
-      <workItem from="1607214331383" duration="1316000" />
+      <workItem from="1607214331383" duration="2204000" />
     </task>
     <servers />
   </component>
@@ -329,7 +334,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12449000" />
+    <option name="totallyTimeSpent" value="13337000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,9 +346,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="167" y="23" width="1400" height="800" extended-state="0" />
+    <frame x="75" y="35" width="1400" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17746687" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17746687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -360,8 +366,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.6141384" visible="true" weight="0.5805085" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.38586158" side_tool="true" visible="true" weight="0.5805085" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6141384" visible="true" weight="0.34322035" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.38586158" side_tool="true" visible="true" weight="0.34322035" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49779087" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,14 +408,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/testcase/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
+        <state relative-caret-position="85">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/testcase/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
+        <state relative-caret-position="100">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
@@ -426,8 +432,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/testcase/BuyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="85">
           <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/peng/suitedemo/hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
